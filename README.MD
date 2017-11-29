@@ -1,4 +1,7 @@
-Run 
+# Example project of tsoa
+* https://github.com/lukeautry/tsoa
+
+# Run 
 
 ```
 npm i
